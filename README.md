@@ -1,3 +1,7 @@
-# helloWorld
+# Python
 
-This is a python script that prints very basic strings, it is my hello world file for python.
+This is a repository which contains all of my code that I wrote when learning Python.
+
+Here is what I have learned so far:
+- Variables
+- Multiple assignment
