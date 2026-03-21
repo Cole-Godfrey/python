@@ -7,3 +7,4 @@ Here is what I have learned so far:
 - Multiple assignment
 - String methods
 - Type casting
+- User input
