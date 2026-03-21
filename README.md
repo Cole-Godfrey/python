@@ -6,3 +6,4 @@ Here is what I have learned so far:
 - Variables
 - Multiple assignment
 - String methods
+- Type casting
