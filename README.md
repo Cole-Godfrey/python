@@ -8,3 +8,4 @@ Here is what I have learned so far:
 - String methods
 - Type casting
 - User input
+- Math functions
