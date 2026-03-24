@@ -9,3 +9,4 @@ Here is what I have learned so far:
 - Type casting
 - User input
 - Math functions
+- String slicing
