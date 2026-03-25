@@ -10,3 +10,4 @@ Here is what I have learned so far:
 - User input
 - Math functions
 - String slicing
+- If statements
