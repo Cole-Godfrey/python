@@ -11,3 +11,4 @@ Here is what I have learned so far:
 - Math functions
 - String slicing
 - If statements
+- Logical operators
