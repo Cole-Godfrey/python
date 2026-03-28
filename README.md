@@ -13,3 +13,4 @@ Here is what I have learned so far:
 - If statements
 - Logical operators
 - While loops
+- For loops
