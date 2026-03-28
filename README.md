@@ -12,3 +12,4 @@ Here is what I have learned so far:
 - String slicing
 - If statements
 - Logical operators
+- While loops
