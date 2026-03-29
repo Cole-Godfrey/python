@@ -14,3 +14,4 @@ Here is what I have learned so far:
 - Logical operators
 - While loops
 - For loops
+- Nested loops
