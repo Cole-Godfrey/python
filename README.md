@@ -15,3 +15,4 @@ Here is what I have learned so far:
 - While loops
 - For loops
 - Nested loops
+- Loop control statements (break, continue, pass)
