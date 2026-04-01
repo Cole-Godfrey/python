@@ -16,3 +16,4 @@ Here is what I have learned so far:
 - For loops
 - Nested loops
 - Loop control statements (break, continue, pass)
+- Lists
