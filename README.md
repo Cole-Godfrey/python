@@ -17,3 +17,4 @@ Here is what I have learned so far:
 - Nested loops
 - Loop control statements (break, continue, pass)
 - Lists
+- 2D lists
